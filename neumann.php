@@ -11,13 +11,21 @@
 
 <?php
 $zz=$_POST["startzahl"];
-for ($i=0;$i<100;$i++)
-    {
+
+function myrandom()
+{
+    global $zz;
     $zz=$zz*$zz;
     $zz=intdiv($zz,100);
     $zz=$zz%10000;
-    echo("<p>$zz</p>");
+    return $zz;
     }
+
+
+for ($i=0;$i<100;$i++)
+{
+    echo("<p>$i: ".myrandom()."</p>");
+}
 ?>
 
 </body>
