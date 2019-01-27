@@ -5,4 +5,4 @@ PHP-Programme für den Unterricht
 - Bestellbeispiel: bestell1.html, bestell2.php
 
 ## 8. Klasse:
-- Neumanngenerator: 
+- Neumanngenerator: neumann.php (enthält myrandom())
