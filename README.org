@@ -1,4 +1,4 @@
-#+TITLE: PHP-Programm-Guide für die 8D
+#+TITLE: PHP-Programm-Guide fÃ¼r die 8D
 #+AUTHOR: Peter Ostertag
 #+DATE: Schuljahr 2019/20
 #+LANGUAGE: de
@@ -8,7 +8,7 @@
 
 
 * Hashfunktionen
-- [[file:Hashmich.php][Hash mich!]]
+- [[file:hashmich.php][Hash mich!]]
 
 
 * Cookies
