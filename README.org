@@ -10,5 +10,13 @@
 * Hashfunktionen
 - [[file:hashmich.php][Hash mich!]]
 
+* Merkle-Bäume
+Siehe im Skriptum Genaueres zu diesem Thema!
+
+- [[file:MerkleSimple.php][Allereinfachstes Merkle-Programm]]
+
 
 * Cookies
+
+- [[file:CookieSimpel.php][Allereinfachstes Cookieprogramm]]
+- [[file:CookieZaehler.php][Zugriffe zählen mit Cookies]]
