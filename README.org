@@ -7,6 +7,18 @@
 #+STARTUP: inlineimages
 
 
+Info für Maturant*innen:
+
+In diesem Repository sind einige Programme abgelegt, die nicht für die Matura relevant sind!
+Orientiert euch einfach am Inhaltsverzeichnis!
+
+* Einfache Übungsbeispiele
+
+- [[glueck2.php][Glückszahl ausgeben]]: random, isset
+- Wollmützen bestellen: hier ist die Aktion auf 2 Dateien aufgeteilt: eine html-Datei mit dem Formular und eine php-Datei mit der Auswertung:
+  - [[Bestell1.html][Bestellen (html)]]
+  - [[Bestell2.php][Warenkorb]]
+
 * Hashfunktionen
 - [[file:hashmich.php][Hash mich!]]
 
@@ -14,6 +26,9 @@
 Siehe im Skriptum Genaueres zu diesem Thema!
 
 - [[file:MerkleSimple.php][Allereinfachstes Merkle-Programm]]
+- Merkle mit Function
+- Merkle mit Array
+
 
 
 * Cookies
