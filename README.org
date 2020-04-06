@@ -8,12 +8,12 @@
 
 * Vorbemerkung für Maturant*innen:
 
-In diesem Repository sind einige Programme abgelegt, die nicht für die Matura relevant sind!
+In diesem Repository sind auch einige Programme abgelegt, die nicht für diese Matura relevant sind!
 Orientiert euch einfach am Inhaltsverzeichnis!
 
-Zum Starten muss man diese Programme immer im Serververzeichnis abspeichern (bei Apache für Windows ist das meist =C:\apache2\htdocs=.
+Zum Starten muss man diese Programme immer im Serververzeichnis abspeichern (bei Apache für Windows ist das meist =C:\apache2\htdocs=).
 
-Damit der Server das PHP-Skript ausführt, muss man die Datei auch über den lokalen Server ("localhost") aufrufen: also nicht mit Doppelklick auf die Datei, sondern mit "http://localhost/Datei.php" in der Adresszeile eines Browsers.
+Damit der Server das PHP-Skript ausführt, muss man die Datei auch über den lokalen Server ("localhost") aufrufen: also nicht mit Doppelklick auf die Datei, sondern mit =http://localhost/Datei.php= in der Adresszeile eines Browsers.
 
 * Einfache Übungsbeispiele
 
